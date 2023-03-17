@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">laboratorio01</string>
+    <string name="Text_cabecera">Bienvenidos a:</string>
+    <string name="Text_final">Programacion de \nDispositivos \nMoviles</string>
+</resources>
