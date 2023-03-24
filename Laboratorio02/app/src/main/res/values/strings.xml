@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratorio02</string>
+    <string name="nombre_app">BMI</string>
+    <string name="valor_kg">kg</string>
+    <string name="valor_weight">weight</string>
+    <string name="weight_predeter">70</string>
+    <string name="valor_height">Height</string>
+    <string name="height_predeter">180</string>
+    <string name="valor_cm">cm</string>
+    <string name="button_calculate">CALCULATE</string>
+</resources>
