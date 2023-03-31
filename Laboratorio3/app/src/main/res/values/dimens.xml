@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="medium_gap">10dp</dimen>
+    <dimen name="big_text_size">40dp</dimen>
+    <dimen name="enormous_text_size">75dp</dimen>
+    <dimen name="default_square_image_size">100dp</dimen>
+
+
+</resources>

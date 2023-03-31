@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboratorio3</string>
+    <string name="texto_1">Cantidad de dinero</string>
+    <string name="valores">0</string>
+</resources>
