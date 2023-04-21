@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">laboratorio5</string>
+    <string name="title_movie">Harry Potter y la piedra filosodal</string>
+    <string name="puntuacion_peli">Puntuacion</string>
+    <string name="example_sipnosis">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et dolor rutrum, placerat purus sit amet, venenatis nulla. Donec mattis ante leo, in molestie lectus gravida quis. Vestibulum turpis enim, vestibulum ut rhoncus eget, scelerisque iaculis sapien. Nulla non dui tristique, sagittis neque nec, accumsan lectus. Donec sem nunc, rutrum non laoreet in, volutpat vel augue. Etiam tempor felis vitae turpis auctor, vel tristique metus tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+    <string name="puntuacion_harry">9.5</string>
+    <string name="billboard_title">Billboard</string>
+    <string name="title_harry_p">Harry Potter y la piedra filosofal</string>
+    <string name="puntuacion_harry_p">9.5</string>
+    <string name="title_star_wars">Star wars episodio 3: La venganza de los sith</string>
+    <string name="puntuacion_star_wars">9.8</string>
+</resources>
